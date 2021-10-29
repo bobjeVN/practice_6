@@ -1,0 +1,2 @@
+def middle(t):
+    return t[2:-2]
